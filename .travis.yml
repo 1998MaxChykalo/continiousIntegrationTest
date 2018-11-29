@@ -7,3 +7,8 @@ node_js:
 branches:
   only:
     - master
+deploy:
+  provider: heroku
+  app: "citestproject"
+  api_key:
+    secure: "9a2d3a8a-204f-4921-956c-0646e8e9bc37"
