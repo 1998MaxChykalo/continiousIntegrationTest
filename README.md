@@ -4,8 +4,8 @@
 
 Awesome factory line manager!
 
-[build-badge]: https://img.shields.io/travis/Max/continiousIntegrationTest/master.png?style=flat-square
-[build]: https://travis-ci.org/Max/continiousIntegrationTest
+[build-badge]: https://img.shields.io/travis/1998MaxChykalo/continiousIntegrationTest/master.png?style=flat-square
+[build]: https://travis-ci.org/1998MaxChykalo/continiousIntegrationTest
 
-[coveralls-badge]: https://img.shields.io/coveralls/Max/continiousIntegrationTest/master.png?style=flat-square
-[coveralls]: https://coveralls.io/github/1998MaxChykalo/continiousIntegrationTest
+[coveralls-badge]: https://img.shields.io/coveralls/1998MaxChykalo/continiousIntegrationTest/master.png?style=flat-square
+[coveralls]: https://github.com/1998MaxChykalo/continiousIntegrationTest
